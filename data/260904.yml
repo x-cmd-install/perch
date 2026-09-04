@@ -7,7 +7,7 @@ about:
   head: 9157400
   archived: false
   latestVersion: v0.3.4
-  collectedAt: 2026-09-04T19:36:16Z
+  collectedAt: 2026-09-04T20:56:27Z
 timeline:
   created: 2026-02-07
   lastCommit: 2026-08-02
@@ -82,5 +82,53 @@ total:
   openIssue: 2
   commit: 108
 ---
+path: /home/runner/.x-repo/github.com/ricardodantas/perch
+collectedAt: 2026-09-04T20:56:28Z
+loc:
+  Rust:
+    code: 7354
+    comments: 299
+    blanks: 1008
+    files: 27
+  Json:
+    code: 5024
+    comments: 0
+    blanks: 0
+    files: 3
+  Toml:
+    code: 60
+    comments: 14
+    blanks: 19
+    files: 1
+  Xml:
+    code: 21
+    comments: 0
+    blanks: 0
+    files: 1
+  JavaScript:
+    code: 8
+    comments: 2
+    blanks: 1
+    files: 1
+  Svg:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 472
+    blanks: 162
+    files: 4
+  Text:
+    code: 0
+    comments: 139
+    blanks: 45
+    files: 2
+total:
+  code: 12540
+  comments: 1515
+  blanks: 1287
+  files: 40
 ---
 
