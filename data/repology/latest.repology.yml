@@ -1,0 +1,21 @@
+- repo: aur
+  srcname: perch-bin
+  binname: perch-bin
+  visiblename: perch-bin
+  version: 0.3.4
+  origversion: 0.3.4-1
+  status: outdated
+  summary: A beautiful terminal social client for Mastodon and Bluesky
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - GPL-3.0
+- repo: os4depot
+  binname: network/ftp/perch.lha
+  visiblename: perch.lha
+  version: "1.1"
+  origversion: null
+  status: newest
+  summary: Permissions/CHMOD extension for FTPMount
+  categories:
+    - network/ftp
