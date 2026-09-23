@@ -4,7 +4,7 @@
 
 A beautiful terminal social client for Mastodon and Bluesky 🐦
 
-[![x-cmd/install — perch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/perch.svg?lang=zh)](https://x-cmd.com/install/perch)
+[![x-cmd/install — perch Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/perch.svg?lang=zh)](https://x-cmd.com/install/perch)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install perch
 
 ## 流行度
 
-- **Star**: 98 · **Fork**: 1 · **开放 issue**: 4 · **贡献者**: 2
+- **Star**: 99 · **Fork**: 1 · **开放 issue**: 4 · **贡献者**: 2
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install perch
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 1 | 0 | 7 | 0 | 2 | 1 |
-| 90d | 2026-06-24 | 1 | 0 | 7 | 0 | 2 | 1 |
-| last180d | 2026-03-26 | 1 | 1 | 7 | 0 | 2 | 2 |
-| 360d | 2025-09-27 | 12 | 2 | 7 | 2 | 2 | 106 |
-| last720d | 2024-10-02 | 12 | 2 | 7 | 2 | 2 | 108 |
+| 30d | 2026-08-24 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 1 | 0 | 7 | 0 | 2 | 1 |
+| 90d | 2026-06-25 | 1 | 0 | 7 | 0 | 2 | 1 |
+| last180d | 2026-03-27 | 1 | 1 | 7 | 0 | 2 | 2 |
+| 360d | 2025-09-28 | 12 | 2 | 7 | 2 | 2 | 106 |
+| last720d | 2024-10-03 | 12 | 2 | 7 | 2 | 2 | 108 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ perch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:41:58Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:48:11Z._
