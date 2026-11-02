@@ -42,18 +42,18 @@ Total: **12,477** lines of code across **33** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 4 · **Open PRs**: 6 · **Closed issues**: 3 · **Open issues**: 5 · **Commits**: 112
+- **Releases**: 12 · **Merged PRs**: 4 · **Open PRs**: 8 · **Closed issues**: 3 · **Open issues**: 5 · **Commits**: 112
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 1 | 6 | 0 | 4 | 0 |
-| last60d | 2026-09-02 | 0 | 2 | 6 | 0 | 4 | 2 |
-| 90d | 2026-08-03 | 0 | 2 | 6 | 0 | 5 | 2 |
-| last180d | 2026-05-05 | 1 | 3 | 6 | 1 | 5 | 4 |
-| 360d | 2025-11-06 | 12 | 4 | 6 | 3 | 5 | 108 |
-| last720d | 2024-11-11 | 12 | 4 | 6 | 3 | 5 | 112 |
+| 30d | 2026-10-03 | 0 | 1 | 8 | 0 | 4 | 0 |
+| last60d | 2026-09-03 | 0 | 2 | 8 | 0 | 4 | 2 |
+| 90d | 2026-08-04 | 0 | 2 | 8 | 0 | 5 | 2 |
+| last180d | 2026-05-06 | 1 | 3 | 8 | 1 | 5 | 4 |
+| 360d | 2025-11-07 | 12 | 4 | 8 | 3 | 5 | 108 |
+| last720d | 2024-11-12 | 12 | 4 | 8 | 3 | 5 | 112 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for perch lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:41:46Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:51:34Z._
