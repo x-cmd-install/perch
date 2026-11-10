@@ -2,8 +2,8 @@
   srcname: perch-bin
   binname: perch-bin
   visiblename: perch-bin
-  version: 0.3.4
-  origversion: 0.3.4-1
+  version: 0.4.0
+  origversion: 0.4.0-1
   status: outdated
   summary: A beautiful terminal social client for Mastodon and Bluesky
   maintainers:
