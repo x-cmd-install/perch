@@ -14,15 +14,15 @@ x install perch
 
 ## Code insight
 
-Total: **12,477** lines of code across **33** files in the top 5 languages.
+Total: **13,023** lines of code across **35** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 7,354 | 299 | 1,008 | 27 |
-| Json | 5,031 | 0 | 0 | 3 |
-| Toml | 60 | 14 | 19 | 1 |
+| Rust | 8,361 | 331 | 1,135 | 27 |
+| Json | 4,429 | 0 | 0 | 3 |
+| JavaScript | 146 | 29 | 15 | 3 |
+| Toml | 62 | 16 | 20 | 1 |
 | Xml | 21 | 0 | 0 | 1 |
-| JavaScript | 8 | 2 | 1 | 1 |
 
 ## Source
 
@@ -32,40 +32,40 @@ Total: **12,477** lines of code across **33** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.3.4` (2026-08-02)
-- **Last commit**: 2026-10-09
+- **Latest**: `v0.4.0` (2026-11-09)
+- **Last commit**: 2026-11-09
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 104 · **Forks**: 2 · **Open issues**: 8 · **Contributors**: 2
+- **Stars**: 104 · **Forks**: 2 · **Open issues**: 8 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 4 · **Open PRs**: 8 · **Closed issues**: 3 · **Open issues**: 5 · **Commits**: 112
+- **Releases**: 13 · **Merged PRs**: 28 · **Open PRs**: 0 · **Closed issues**: 8 · **Open issues**: 0 · **Commits**: 178
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 5 | 0 | 3 | 0 |
-| last60d | 2026-09-10 | 0 | 2 | 8 | 0 | 4 | 1 |
-| 90d | 2026-08-11 | 0 | 2 | 8 | 0 | 5 | 2 |
-| last180d | 2026-05-13 | 1 | 3 | 8 | 1 | 5 | 4 |
-| 360d | 2025-11-14 | 12 | 4 | 8 | 3 | 5 | 108 |
-| last720d | 2024-11-19 | 12 | 4 | 8 | 3 | 5 | 112 |
+| 30d | 2026-10-11 | 1 | 22 | 0 | 3 | 0 | 31 |
+| last60d | 2026-09-11 | 1 | 26 | 0 | 4 | 0 | 34 |
+| 90d | 2026-08-12 | 1 | 26 | 0 | 5 | 0 | 35 |
+| last180d | 2026-05-14 | 2 | 27 | 0 | 6 | 0 | 37 |
+| 360d | 2025-11-15 | 13 | 28 | 0 | 8 | 0 | 141 |
+| last720d | 2024-11-20 | 13 | 28 | 0 | 8 | 0 | 178 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [perch-0.3.4-aarch64-apple-darwin.tar.gz](https://github.com/ricardodantas/perch/releases/download/v0.3.4/perch-0.3.4-aarch64-apple-darwin.tar.gz) | 4.5 MiB | `native/darwin/arm64` |
-| [perch-0.3.4-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/perch/releases/download/v0.3.4/perch-0.3.4-aarch64-unknown-linux-gnu.tar.gz) | 4.7 MiB | `native/linux/arm64/glibc` |
-| [perch-0.3.4-x86_64-apple-darwin.tar.gz](https://github.com/ricardodantas/perch/releases/download/v0.3.4/perch-0.3.4-x86_64-apple-darwin.tar.gz) | 4.8 MiB | `native/darwin/x64` |
-| [perch-0.3.4-x86_64-pc-windows-msvc.zip](https://github.com/ricardodantas/perch/releases/download/v0.3.4/perch-0.3.4-x86_64-pc-windows-msvc.zip) | 4.3 MiB | `native/win/x64` |
-| [perch-0.3.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/perch/releases/download/v0.3.4/perch-0.3.4-x86_64-unknown-linux-gnu.tar.gz) | 5.1 MiB | `native/linux/x64/glibc` |
-| [perch-0.3.4-x86_64-unknown-linux-musl.tar.gz](https://github.com/ricardodantas/perch/releases/download/v0.3.4/perch-0.3.4-x86_64-unknown-linux-musl.tar.gz) | 5.2 MiB | `native/linux/x64/musl` |
-| [SHA256SUMS.txt](https://github.com/ricardodantas/perch/releases/download/v0.3.4/SHA256SUMS.txt) | 648 B | `other` |
+| [perch-0.4.0-aarch64-apple-darwin.tar.gz](https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-aarch64-apple-darwin.tar.gz) | 4.5 MiB | `native/darwin/arm64` |
+| [perch-0.4.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-aarch64-unknown-linux-gnu.tar.gz) | 4.9 MiB | `native/linux/arm64/glibc` |
+| [perch-0.4.0-x86_64-apple-darwin.tar.gz](https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-x86_64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/x64` |
+| [perch-0.4.0-x86_64-pc-windows-msvc.zip](https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-x86_64-pc-windows-msvc.zip) | 4.4 MiB | `native/win/x64` |
+| [perch-0.4.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-x86_64-unknown-linux-gnu.tar.gz) | 5.3 MiB | `native/linux/x64/glibc` |
+| [perch-0.4.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-x86_64-unknown-linux-musl.tar.gz) | 5.4 MiB | `native/linux/x64/musl` |
+| [SHA256SUMS.txt](https://github.com/ricardodantas/perch/releases/download/v0.4.0/SHA256SUMS.txt) | 648 B | `other` |
 
 ## Distribution status
 
@@ -80,4 +80,4 @@ Install metadata for perch lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:10:53Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:58:44Z._
