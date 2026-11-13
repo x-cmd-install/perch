@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4733127,
       "digest": "sha256:936ca458e9bd419dac5227e7ffdbf94252804fb1501b24dab6147eb0e5bad10c",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-11-09T16:05:40Z",
       "updated_at": "2026-11-09T16:05:41Z",
       "browser_download_url": "https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5586386,
       "digest": "sha256:bbfadc1068901166f303e3cbf1fd4bd4b5349ba15fe916755a9a03aa16fc07db",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-11-09T16:05:40Z",
       "updated_at": "2026-11-09T16:05:41Z",
       "browser_download_url": "https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5713487,
       "digest": "sha256:ef3fb9df0ad3b7ed53a125fa92da45224c61f401c4fd75d46631f9a799117f44",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-09T16:05:40Z",
       "updated_at": "2026-11-09T16:05:42Z",
       "browser_download_url": "https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-x86_64-unknown-linux-musl.tar.gz"
