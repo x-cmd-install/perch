@@ -48,12 +48,12 @@ Total: **13,023** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 22 | 1 | 3 | 0 | 31 |
-| last60d | 2026-09-15 | 1 | 25 | 1 | 4 | 0 | 34 |
-| 90d | 2026-08-16 | 1 | 26 | 1 | 5 | 0 | 35 |
-| last180d | 2026-05-18 | 2 | 27 | 1 | 6 | 0 | 37 |
-| 360d | 2025-11-19 | 13 | 28 | 1 | 8 | 0 | 141 |
-| last720d | 2024-11-24 | 13 | 28 | 1 | 8 | 0 | 178 |
+| 30d | 2026-10-16 | 1 | 22 | 1 | 3 | 0 | 31 |
+| last60d | 2026-09-16 | 1 | 25 | 1 | 4 | 0 | 34 |
+| 90d | 2026-08-17 | 1 | 26 | 1 | 5 | 0 | 35 |
+| last180d | 2026-05-19 | 2 | 27 | 1 | 6 | 0 | 37 |
+| 360d | 2025-11-20 | 13 | 28 | 1 | 8 | 0 | 141 |
+| last720d | 2024-11-25 | 13 | 28 | 1 | 8 | 0 | 178 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for perch lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:25:17Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:27:07Z._
