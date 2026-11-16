@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5586386,
       "digest": "sha256:bbfadc1068901166f303e3cbf1fd4bd4b5349ba15fe916755a9a03aa16fc07db",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-11-09T16:05:40Z",
       "updated_at": "2026-11-09T16:05:41Z",
       "browser_download_url": "https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5713487,
       "digest": "sha256:ef3fb9df0ad3b7ed53a125fa92da45224c61f401c4fd75d46631f9a799117f44",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-11-09T16:05:40Z",
       "updated_at": "2026-11-09T16:05:42Z",
       "browser_download_url": "https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-x86_64-unknown-linux-musl.tar.gz"
