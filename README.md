@@ -48,12 +48,12 @@ Total: **13,023** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 22 | 1 | 3 | 0 | 31 |
-| last60d | 2026-09-18 | 1 | 25 | 1 | 4 | 0 | 34 |
-| 90d | 2026-08-19 | 1 | 26 | 1 | 5 | 0 | 35 |
-| last180d | 2026-05-21 | 2 | 27 | 1 | 6 | 0 | 37 |
-| 360d | 2025-11-22 | 13 | 28 | 1 | 8 | 0 | 141 |
-| last720d | 2024-11-27 | 13 | 28 | 1 | 8 | 0 | 178 |
+| 30d | 2026-10-20 | 1 | 22 | 1 | 3 | 0 | 31 |
+| last60d | 2026-09-20 | 1 | 25 | 1 | 4 | 0 | 34 |
+| 90d | 2026-08-21 | 1 | 26 | 1 | 5 | 0 | 35 |
+| last180d | 2026-05-23 | 2 | 27 | 1 | 6 | 0 | 37 |
+| 360d | 2025-11-24 | 13 | 28 | 1 | 8 | 0 | 141 |
+| last720d | 2024-11-29 | 13 | 28 | 1 | 8 | 0 | 178 |
 
 ## Release assets
 
@@ -67,6 +67,10 @@ Total: **13,023** lines of code across **35** files in the top 5 languages.
 | [perch-0.4.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-x86_64-unknown-linux-musl.tar.gz) | 5.4 MiB | `native/linux/x64/musl` |
 | [SHA256SUMS.txt](https://github.com/ricardodantas/perch/releases/download/v0.4.0/SHA256SUMS.txt) | 648 B | `other` |
 
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/perch). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
 ## Improve this data
 
 Install metadata for perch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `perch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -76,4 +80,4 @@ Install metadata for perch lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:29:39Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:29:38Z._
