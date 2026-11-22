@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5713487,
       "digest": "sha256:ef3fb9df0ad3b7ed53a125fa92da45224c61f401c4fd75d46631f9a799117f44",
-      "download_count": 20,
+      "download_count": 23,
       "created_at": "2026-11-09T16:05:40Z",
       "updated_at": "2026-11-09T16:05:42Z",
       "browser_download_url": "https://github.com/ricardodantas/perch/releases/download/v0.4.0/perch-0.4.0-x86_64-unknown-linux-musl.tar.gz"
